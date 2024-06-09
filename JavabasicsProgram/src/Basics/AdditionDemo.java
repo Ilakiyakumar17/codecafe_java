@@ -12,7 +12,8 @@ public class AdditionDemo {
 		a=s.nextInt();
 		b=s.nextInt();
 		c=a+b;
-		System.out.println("addition of a="+a+"and b="+"is:"+c);
+		System.out.println("addition of a="+a+"and b="+b+"is:"+c);
+		
 
 	}
 
