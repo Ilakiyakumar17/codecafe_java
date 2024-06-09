@@ -4,7 +4,7 @@ public class TaxCalculation {
 
 	public void  CalculateTax(Person person)
 	{
-		if(person.getAge()>65||person.getgender().equalsIgnoreCase("femal"))
+		if(person.getAge()>65||person.getgender().equalsIgnoreCase("female"))
 		{	
 			person.setTax(0);
 			System.out.println("Tax is not applicationable");

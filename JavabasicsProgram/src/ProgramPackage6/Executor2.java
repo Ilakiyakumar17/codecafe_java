@@ -1,8 +1,6 @@
 //Program to demonstrate accessing classes and methods of different package
 package ProgramPackage6;
 
-import firstpackage.Base;
-
 public class Executor2 {
 	public static void main(String[] args) {
 		// accessing different package class
